@@ -1,0 +1,160 @@
+App Proposal: GreenSteps - A Simple Eco-Friendly Habit Tracker
+
+GreenSteps is a simple mobile application designed to encourage individuals to adopt more eco-friendly habits in their daily lives. 
+It helps users track their actions towards sustainability, provides tips on reducing carbon footprints, 
+and encourages participation in global efforts to combat climate change and preserve the environment.
+
+How thIS App Contributes to the SDGs:
+
+Raising Awareness: GreenSteps helps individuals understand their role in achieving the 2030 Agenda for Sustainable Development and how small changes can have a large-scale impact.
+
+Encouraging Action: The app encourages users to adopt sustainable habits, making it easier for them to align their daily choices with global sustainability efforts.
+
+Tracking Collective Impact: By showing users how their habits contribute to a global effort, the app fosters a sense of shared responsibility for the planet’s future.
+
+Target Audience for GreenSteps:
+
+Individuals (General Public):
+This app is designed primarily for individuals who are looking to live more sustainably.
+It appeals to eco-conscious people of all ages who are motivated to reduce their carbon footprint and make environmentally friendly choices in their daily lives.
+
+Communities:
+Local communities and neighborhoods can benefit from GreenSteps as it encourages collective action. 
+It could be used in schools, social groups, or community centers to promote eco-friendly habits among members, creating a culture of sustainability within the community.
+
+Businesses:
+GreenSteps can be utilized by small to medium businesses that want to promote sustainability among their employees. 
+It can be used as part of a corporate social responsibility (CSR) program to engage employees in sustainability efforts, offering incentives or rewards for meeting eco-friendly goals.
+
+Schools and Educational Institutions:
+The app is ideal for schools that want to teach students about sustainability and the environment. 
+It can be integrated into environmental education programs to help students track their eco-friendly actions and understand their impact on the planet.
+
+Government and Local Authorities:
+Governments and local authorities could use GreenSteps as part of public campaigns to promote sustainability in urban areas or rural communities. 
+It can help measure and promote the success of local sustainability initiatives, such as waste reduction programs, energy conservation efforts, and climate change mitigation strategies.
+
+Real-World Context of the Issue Addressed by GreenSteps:
+
+The world is facing numerous environmental challenges that are becoming increasingly urgent due to the effects of climate change, unsustainable consumption, and a growing population. 
+These challenges impact individuals, communities, businesses, and governments across the globe.
+
+Climate Change:
+Climate change is one of the most pressing global issues today. Rising temperatures, extreme weather events, and the melting of ice caps are all linked to human activity, 
+particularly carbon emissions from fossil fuel consumption. A major contributor to these emissions is the way individuals live their daily lives, including transportation choices, energy consumption, 
+waste production, and food consumption. Despite the urgency of the issue, many people lack awareness of the direct impact of their daily actions on the environment.
+
+Resource Overconsumption:
+Overconsumption of resources, particularly water, energy, and raw materials, leads to environmental degradation and depletion. 
+The global population is projected to exceed 9 billion by 2050,which means even more pressure on natural resources. 
+Unsustainable consumption practices, such as using single-use plastics and relying on non-renewable energy sources, are contributing to pollution and environmental harm.
+
+Waste Management and Pollution:
+The world generates vast amounts of waste, much of it non-biodegradable. Inadequate waste management systems in many countries result in increased pollution, 
+particularly in oceans, rivers, and landfills. Improper disposal of waste, such as plastics, contributes to the contamination of ecosystems and poses a significant threat to biodiversity.
+
+Lack of Awareness and Action:
+While many individuals are concerned about the environment, many still lack clear guidance on how they can make impactful changes. 
+Small, everyday actions such as reducing energy usage, recycling, or opting for sustainable transport can have a significant effect when practiced at scale, 
+but people often feel disconnected from the larger environmental goals or don't know where to start.
+
+Global Sustainability Efforts:
+The United Nations Sustainable Development Goals (SDGs) emphasize the need for global action to combat climate change and promote sustainable living. 
+However, there is still a gap in achieving these goals, especially in terms of engaging individuals and communities. 
+A lack of accessible tools and resources that help track and incentivize sustainable behavior has hindered broader participation in these efforts.
+
+
+App Proposal Summary: GreenSteps - A Simple Eco-Friendly Habit Tracker
+
+1. Objective: 
+GreenSteps is designed to empower individuals to adopt more sustainable and eco-friendly behaviors by tracking their daily activities. 
+The app’s goal is to increase environmental awareness, motivate users to reduce their carbon footprint, and contribute to global efforts to combat climate change. 
+By fostering personal responsibility for the environment, GreenSteps encourages individuals to make small changes that, when scaled, can have a significant positive impact on the planet.
+
+2. Key SDGs Targeted: 
+
+GreenSteps aligns with the following SDGs:
+
+SDG 12: Responsible Consumption and Production
+GreenSteps promotes mindful consumption and waste reduction, 
+encouraging users to make sustainable choices like reducing plastic use and conserving resources.
+
+SDG 13: Climate Action
+The app supports the reduction of carbon emissions by motivating users to track 
+co-friendly habits such as energy conservation and reducing waste.
+
+SDG 3: Good Health and Well-Being
+By encouraging healthier behaviors like walking and cycling instead of driving, 
+GreenSteps indirectly contributes to both physical well-being and environmental health.
+
+
+3. Key Features:
+
+Eco Habit Tracker: Users can log daily actions such as recycling, reducing water usage, and using public transport. 
+These habits are tracked and visually represented to show progress over time.
+
+Goal Setting & Progress: Users set sustainability targets reduce plastic use, conserve water, and the app sends reminders and feedback on progress.
+
+Tips & Suggestions: GreenSteps provides easy-to-follow, actionable tips to reduce the environmental 
+impact of everyday activities, like switching to reusable bags or reducing food waste.
+
+Global Impact Tracker: The app displays how individual actions contribute to collective global goals, 
+helping users see the larger impact of their personal efforts.
+
+4. Technical Architecture: The technical architecture of GreenSteps involves the following key components:
+
+User Interface (UI): Simple, intuitive design for tracking habits, setting goals, and viewing tips.
+Backend Server: A cloud-based backend to store user data, track progress, and send reminders.
+Data Storage: A secure database to store user activity data, goals, and progress.
+Analytics Engine: A module that analyzes user data to provide feedback and show how individual actions contribute to SDG targets.
+
+
+5. Research and Evidence
+
+ UNEP - Sustainable Consumption and Production:
+
+United Nations Environment Programme (UNEP) reports on the importance of responsible consumption and production in achieving SDG 12. 
+This includes promoting sustainable lifestyles, reducing waste, and conserving resources.
+Link: UNEP Sustainable Consumption and Production
+
+ WHO - Urban Transport and Health:
+
+The World Health Organization (WHO) highlights how reducing reliance on cars and promoting sustainable transport options such as 
+walking and cycling not only help in climate action but also improve public health.
+Link: WHO Urban Transport and Health
+
+ Global Environmental Behavior Studies:
+
+Behavioral science research on environmental behavior suggests that tracking habits and providing feedback can lead to sustained behavior changes. 
+This is critical in designing apps like GreenSteps, which aim to modify user behavior for the environment.
+Link: ScienceDirect - Global Environmental Behavior
+
+ Research on Habit Formation and Tracking:
+
+Studies on habit formation and digital tools indicate that incorporating tracking features and progress feedback can significantly 
+improve long-term behavior change, especially in the context of eco-friendly actions.
+Link: Journal of Environmental Psychology - Habit Formation and Sustainability
+
+ Research on Climate Action and Individual Impact:
+
+A report by the Intergovernmental Panel on Climate Change (IPCC) emphasizes the need for individual action to address climate change,
+particularly focusing on lifestyle choices that reduce carbon emissions.
+Link: IPCC - Special Report on Climate Change and Land
+
+ SDG 13 - Climate Action and Carbon Footprint Reduction:
+
+The United Nations Sustainable Development Goals website provides comprehensive data on SDG 13, 
+including individual and collective actions necessary for climate change mitigation.
+Link: UN SDG 13 - Climate Action
+
+ Research on Mobile Applications for Sustainability:
+
+A literature review on the use of mobile applications for promoting sustainability discusses how apps can influence 
+eco-friendly behavior through personalized goals, rewards, and feedback mechanisms.
+Link: Mobile Apps for Sustainability - ResearchGate
+
+ Behavioral Economics and Sustainability:
+
+A paper on the role of behavioral economics in encouraging sustainable behavior discusses how digital tools, 
+such as habit tracking apps, can influence decision-making toward more sustainable practices.
+Link: Behavioral Economics and Sustainability - Springer
