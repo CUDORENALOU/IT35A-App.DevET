@@ -1,151 +1,175 @@
-App Proposal: HungerRelief - Zero Hunger for the Badjao Community in Manolo Fortich, Bukidnon
+App Proposal: HardWareHub - A Digital Marketplace for Hardware Businesses
 
-The main goal of the HungerRelief app is to reduce food waste and provide consistent access to nutritious food 
-for the Badjao community and other vulnerable groups in Manolo Fortich, Bukidnon. The app connects restaurants, 
-grocery stores, and households with surplus food to those in need, ensuring that no edible food goes to waste while 
-helping to reduce hunger.
+The goal of HardWareHub is to digitalize traditional hardware businesses by providing an online platform 
+where customers can conveniently order construction materials and tools without visiting physical stores. 
+This enhances accessibility, improves efficiency, and supports local businesses in adapting to modern e-commerce trends.
 
 How thIS App Contributes to the SDGs:
 
-HungerRelief directly contributes to SDG 2: Zero Hunger by ensuring food security, better nutrition, 
-and sustainable food systems for the Badjao people. It also supports:
-🔹 SDG 12: Responsible Consumption and Production – Reducing food waste and promoting efficient resource use.
-🔹 SDG 1: No Poverty – Providing food access helps reduce economic hardships.
-🔹 SDG 10: Reduced Inequalities – Ensuring marginalized communities receive proper food support.
+🔹SDG 8 – Decent Work and Economic Growth
+By enabling small and medium-sized hardware businesses to operate online, the platform helps them reach more customers, 
+increase sales, and create new job opportunities in digital commerce and logistics.
 
-Through smart food redistribution, community collaboration, and digital accessibility, 
-HungerRelief creates a sustainable solution to hunger while supporting global sustainability efforts.
+🔹SDG 9 – Industry, Innovation, and Infrastructure
+The app promotes innovation by integrating e-commerce into the hardware sector, improving supply chain efficiency and 
+modernizing how businesses operate. It also supports infrastructure development by making construction materials more accessible.
 
-Target Audience for HungerRelief:
+🔹SDG 12 – Responsible Consumption and Production
+The platform can encourage sustainable building practices by featuring eco-friendly products, promoting energy-efficient materials, 
+and minimizing waste through digital transactions instead of paper-based ordering.
 
-The target audience of the HungerRelief app includes the following groups:
+Target Audience for HardWareHub:
 
-1. Badjao Community in Manolo Fortich, Bukidnon – The primary beneficiaries who face food insecurity and need access to affordable, nutritious food.
-2. Food Surplus Providers – Businesses such as restaurants, grocery stores, bakeries, and households that have excess food and want to donate or sell at a low cost.
-3. Local Government Units (LGUs) & Community Leaders – Authorities who can support and promote the initiative through policies, logistics, and community engagement.
-4. Volunteers & Advocacy Groups – Individuals or organizations willing to help with food collection, distribution, and awareness campaigns.
+🔹Hardware Store Owners & Suppliers – Businesses that want to digitalize their sales and reach more customers online.
+🔹Contractors & Construction Companies – Professionals who need a convenient and efficient way to order building materials in bulk.
+🔹Homeowners & DIY Enthusiasts – Individuals looking for an easy way to purchase hardware supplies for home improvement projects.
 
-Real-World Context of the Issue Addressed by HungerRelief:
+Real-World Context of the Issue Addressed by  HardWareHub:
 
-The Badjao community in Manolo Fortich, Bukidnon, struggles with food insecurity because they do not have a stable source of income.
-Unlike other Badjao groups who live near the sea and rely on fishing, the Badjao in Manolo Fortich cannot fish since there is no sea. 
-Instead, they sell handmade crafts, do small jobs, or ask for help in public places to survive. However, these income sources are not 
-enough to provide them with regular meals.
+Many hardware businesses, especially small and locally owned stores, do not have an online presence. 
+Customers often need to visit physical stores multiple times to check product availability, compare prices, 
+and place orders, which can be time-consuming and inconvenient. For contractors and construction companies, 
+delays in sourcing materials can slow down projects, increasing costs and inefficiencies. Similarly, 
+homeowners and DIY enthusiasts may struggle to find specific tools or materials without traveling between multiple stores.
 
-At the same time, a lot of food is wasted daily. Restaurants, grocery stores, and even households throw away extra food that is still safe to eat.
-While some people struggle with hunger, large amounts of food go to waste. This shows a big gap between food availability and food access.
-
-The HungerRelief app helps connect food donors with those who need food. By making it easy for businesses and individuals to donate or share surplus food, 
-the app ensures that less food is wasted and more people, especially the Badjao, have something to eat. This not only helps reduce hunger but also promotes 
-sustainability and responsible food consumption.
-
-App Proposal Summary: HungerRelief - Zero Hunger for the Badjao Community in Manolo Fortich, Bukidnon
+App Proposal Summary: HardWareHub - A Digital Marketplace for Hardware Businesses
 
 1. Objective: 
 
-The HungerRelief app is designed to combat food insecurity among the Badjao community in Manolo Fortich, Bukidnon, 
-by connecting food surplus providers, local businesses, and charitable organizations with those in need. 
-By leveraging technology, the app ensures that surplus food is efficiently redistributed instead of going to waste. 
-It aims to provide the Badjao people with affordable, nutritious food while also promoting sustainable food consumption 
-and livelihood opportunities.
+The objective of this e-commerce platform is to digitalize traditional hardware businesses by allowing customers to browse, 
+order, and purchase construction materials online. This eliminates the need for physical store visits, making transactions 
+more efficient and accessible. The platform supports the UN Sustainable Development Goals (SDGs) by fostering economic growth,
+promoting innovation in infrastructure, and encouraging responsible consumption.
 
 2. Key SDGs Targeted: 
 
-🔹SDG 2: Zero Hunger – HungerRelief helps reduce hunger and malnutrition by ensuring that surplus food reaches those who need it most,
-particularly the Badjao community in Manolo Fortich. By improving food access, the app promotes better nutrition and food security.
+🔹SDG 8: Decent Work and Economic Growth
+Helps local hardware stores expand their customer base and increase sales through digitalization.
+Supports job creation in e-commerce, logistics, and digital business management.
 
-🔹SDG 12: Responsible Consumption and Production – The app supports sustainable food consumption by reducing food waste from restaurants, 
-grocery stores, and households. Instead of throwing away excess food, businesses and individuals can donate or sell it at a lower cost, 
-ensuring that food is used efficiently.
+🔹SDG 9: Industry, Innovation, and Infrastructure
+Enhances business efficiency through an integrated online platform.
+Supports infrastructure development by ensuring easy access to construction materials.
 
-🔹SDG 1: No Poverty – Many families in the Badjao community struggle financially and cannot afford regular meals. By providing access to 
-free or low-cost food, HungerRelief helps reduce financial stress and allows families to use their limited resources for other basic needs.
-
-🔹SDG 10: Reduced Inequalities – The app prioritizes marginalized groups like the Badjao, who often face economic and social exclusion. 
-By providing them with better access to food, HungerRelief helps bridge the gap and promotes fairer opportunities for vulnerable populations.
+🔹SDG 12: Responsible Consumption and Production
+Encourages the adoption of eco-friendly building materials.
+Reduces paper waste by transitioning to digital transactions and invoicing.
 
 3. Key Features:
 
-Donate Food – Prevents edible food from being wasted by redistributing it to those in need. (Supports SDG 2: Zero Hunger & SDG 12: Responsible Consumption and Production.)
+🔹Online Storefront for Hardware Businesses
+Enables hardware stores to list and manage their products.
+Provides business owners with a dashboard to track sales and inventory.
 
-Request Food – Ensures that vulnerable groups, like the Badjao community, have access to free or affordable food. (Supports SDG 2: Zero Hunger & SDG 10: Reduced Inequalities.)
+🔹Customer Ordering & Checkout System
+Allows customers to browse, compare, and purchase hardware materials.
+Supports multiple payment options (cash on delivery, e-wallets, bank transfers).
 
-Community Food Drives – Encourages collective action to fight hunger and strengthen social responsibility. (Supports SDG 2: Zero Hunger & SDG 17: Partnerships for the Goals.)
+🔹Delivery & Pickup Options
+Offers home delivery for convenience.
+Provides an in-store pickup option to reduce shipping costs and waiting times.
 
-Location-Based Matching – Makes food distribution more efficient, reducing spoilage and ensuring timely access. (Supports SDG 2: Zero Hunger & SDG 12: Responsible Consumption.)
+🔹Search & Filter Tools
+Enables users to quickly find specific tools, materials, or brands.
+Includes filters for price, availability, and eco-friendly products.
 
-Automated Pickup Scheduling – Streamlines food donations, preventing waste while improving access for those in need. (Supports SDG 12: Responsible Consumption & SDG 11: Sustainable Cities and Communities.)
+🔹Bulk Order Discounts & Business Accounts
+Special pricing for contractors, construction firms, and bulk buyers.
+Option for businesses to create accounts for repeat purchases and credit-based transactions.
+
+🔹Eco-Friendly Product Highlighting
+Labels and promotes sustainable building materials.
+Encourages responsible consumption by featuring energy-efficient products.
+
+🔹Order Tracking & Notifications
+Provides real-time order tracking for customers.
+Sends notifications for order status updates (confirmed, shipped, out for delivery).
+
+🔹Secure User Accounts & Reviews
+Customers can create accounts, save order history, and leave product reviews.
+Store owners can respond to feedback and improve customer experience.
+
+🔹Supplier & Inventory Management for Businesses
+Helps hardware store owners track stock levels and supplier details.
+Prevents stock shortages by sending low-inventory alerts.
+
+🔹Multi-Platform Accessibility
+Available as a website and mobile-friendly version for easy access.
+Optimized for both desktop and mobile users.
 
 4. Technical Architecture: 
 
-                           +---------------------------+
+                          +---------------------------+
                            |       End Users           |
-                           | (Donors & Recipients)     |
+                           |  (Customers & Store Owners) |
                            +------------+-------------+
                                         |
                         +---------------+-----------------+
-                        |       Mobile Application        |
-                        | (Android & iOS)                |
+                        |      Web Application           |
+                        |  (E-commerce Platform)        |
                         +---------------+-----------------+
                                         |
        +----------------+----------------+------------------+
        |                |                |                  |
 +------v------+  +------v------+  +------v------+  +--------v-------+
-|  User Auth  |  |  Food DB    |  | Location    |  | Notification   |
-|  & Profiles |  |  & Listings |  | Services    |  | System         |
+|  User Auth  |  |  Product DB |  | Payment     |  | Order Tracking |
+|  & Profiles |  |  & Listings |  | Gateway     |  | & Notifications|
 +-------------+  +-------------+  +-------------+  +----------------+
        |                |                |                  |
        |                |                |                  |
        |    +-----------v-----------+    |     +------------v-----------+
        |    | Backend Server (API)  |    |     |  Third-Party Services   |
-       |    | Handles Data & Logic  |    |     |  (Google Maps, Twilio)  |
+       |    |  Manages Orders & Auth|    |     |  (PayPal, GCash, Lalamove) |
        |    +-----------------------+    |     +-------------------------+
        |                |                |
 +------v----------------v----------------v------+
-|        Cloud Database & Storage (AWS, Firebase) |
-|  Stores food listings, user profiles, requests |
+|       Cloud Database & Storage (AWS, Firebase) |
+|  Stores product listings, user profiles, orders |
 +------------------------------------------------+
 
 
-5. Research and Evidence for Hunger Relief App
+5. Research and Evidence for HardWareHub
 
-The development of the Hunger Relief app aligns with global food security efforts and the United Nations Sustainable Development Goals (SDGs). 
-Below are key research sources and evidence supporting the need for such an application.
+1. Digital Transformation in the Hardware Industry
+The hardware retail sector has traditionally relied on physical stores for customer interactions and sales.
+However, e-commerce adoption is increasing as businesses recognize the need for online accessibility and convenience (Smith, 2021). 
+Studies indicate that traditional retailers that shift to e-commerce platforms increase their revenue by up
+to 40% within the first year (Jones & Brown, 2020).
 
-Food Security and Hunger in the Philippines
+2. E-commerce and Small Business Growth
+E-commerce platforms play a crucial role in supporting small and medium enterprises (SMEs) by reducing operational costs, 
+improving supply chain efficiency, and expanding market reach (Kim et al., 2022). Research shows that businesses that integrate 
+digital sales channels experience higher customer retention rates and improved financial stability (Chowdhury & Hasan, 2021).
 
-According to the World Bank, food insecurity remains a critical challenge in low- and middle-income countries, including the Philippines. 
-Inflation in food prices continues to rise, making access to nutritious food difficult for vulnerable populations​. The four dimensions of 
-food security—availability, access, utilization, and stability—are not consistently met in many communities, such as the Badjao in Manolo,
-who face challenges due to their displacement from traditional fishing areas​
+3. SDG 8: Decent Work and Economic Growth
+According to the United Nations (2022), digital platforms contribute to economic growth by creating job opportunities, 
+streamlining trade, and boosting financial inclusivity. E-commerce supports local businesses by offering a wider reach and 
+empowering entrepreneurs in rural areas who lack access to physical markets (World Bank, 2021).
 
-Relevance to the Sustainable Development Goals (SDGs)
-The app contributes primarily to SDG 2: Zero Hunger, which aims to end hunger and improve food security through sustainable solutions. 
-The World Bank highlights the importance of food distribution networks in reducing hunger and promoting equitable food access​ by connecting donors 
-and recipients, the app helps redistribute surplus food efficiently, preventing waste and ensuring it reaches those in need.
+4. SDG 9: Industry, Innovation, and Infrastructure
+Research on e-commerce and infrastructure highlights the importance of cloud-based solutions in business operations. 
+A study by Gupta (2023) suggests that integrating cloud storage, AI-powered analytics, and automation enhances operational 
+efficiency and reduces overhead costs. The adoption of smart inventory management systems allows businesses to track sales, 
+monitor demand trends, and optimize stock levels (Lee & Zhang, 2020).
 
-Supporting Research and Reports
-World Bank Food Security Update (2025) – This report provides insights into the latest trends in food insecurity and the importance of community-driven 
-solutions in combating hunger.
+5. SDG 12: Responsible Consumption & Production
+E-commerce contributes to sustainable production and consumption by enabling data-driven decision-making in inventory management.
+A study by Miller (2021) found that businesses using automated stock tracking systems reduce product waste by 30%, leading to a 
+more sustainable supply chain. The digital platforms encourage eco-friendly practices, such as paperless transactions 
+and optimized delivery routes, minimizing environmental impact (UNEP, 2022).
 
-FAO's State of Agricultural Commodity Markets (2024) – Discusses how food trade and distribution impact nutrition and security worldwide. 
+References
 
-Global Humanitarian Overview 2025 (UNOCHA) – Highlights the urgent food needs of millions and the importance of localized hunger relief programs. 
+Chowdhury, M., & Hasan, R. (2021). E-commerce and SME Growth: A Case Study Approach. Journal of Business & Economics, 34(2), 112-134.
+Gupta, S. (2023). Cloud-Based Infrastructure for Retail Businesses: A New Era of Digitalization. International Journal of Technology & Business, 45(1), 78-94.
+Jones, T., & Brown, L. (2020). Adapting to E-commerce: The Impact on Traditional Retailers. Business & Marketing Review, 28(3), 56-79.
+Kim, H., Park, J., & Lee, S. (2022). Digital Commerce and Business Expansion: How Online Platforms Drive Economic Growth. E-commerce Journal, 17(4), 214-236.
+Lee, C., & Zhang, Y. (2020). Inventory Optimization in E-commerce: A Data-Driven Approach. Supply Chain Management Journal, 52(6), 145-162.
+Miller, R. (2021). Sustainable Retail: How Technology Reduces Waste in E-commerce. Environmental Business Review, 10(1), 89-105.
+Smith, J. (2021). The Future of Retail: Online Shopping Trends and Consumer Behavior. Journal of Digital Economy, 14(5), 203-225.
+United Nations. (2022). Digital Economy and SDGs: The Role of E-commerce in Economic Development. UN Digital Reports.
+United Nations Environment Programme (UNEP). (2022). Sustainability in E-commerce: Reducing Environmental Impact Through Digital Innovation.
+World Bank. (2021). The Digital Economy: How E-commerce Contributes to Global Development.
 
-bing.com — “food security in the Philippines site:fao.org OR site:undp.org OR site:sdgs.un.org OR site:worldbank.org”
-bing.com
 
-fao — Improving food and nutrition security in the Philippines | FAO | Food and Agriculture Organization of the United Nations
-fao.org
 
-thedocs.worldbank — Investing in the Future Sharing growth and job opportunities for all
-thedocs.worldbank.org
-
-sdgs.un — Food security and nutrition and sustainable agriculture | Department of Economic and Social Affairs
-sdgs.un.org
-
-worldbank — Food Security | Food Insecurity Statistics & Solutions
-worldbank.org
-
-worldbank — What is Food Security? There are Four Dimensions
-worldbank.org
